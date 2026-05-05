@@ -6,16 +6,16 @@ Este projeto consiste em um script de automação desenvolvido em **Python** par
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Linguagem:** Python 3.x[cite: 1, 4]
-- **Bibliotecas Nativas:** `os`, `shutil`, `datetime`[cite: 4]
-- **Ambiente de Desenvolvimento:** Arch Linux[cite: 1, 4]
+- **Linguagem:** Python 3.x
+- **Bibliotecas Nativas:** `os`, `shutil`, `datetime`
+- **Ambiente de Desenvolvimento:** Arch Linux
 
 ## 📋 Funcionalidades
 
 - **Mapeamento de Extensões:** Identifica automaticamente arquivos por tipo (PDF, CSV, Python, Java, SQL, etc.).
-- **Gestão de Diretórios:** Cria automaticamente pastas de destino (Documentos, Scripts, Relatórios) caso elas não existam[cite: 4].
-- **Logging em Tempo Real:** Exibe no terminal o log de cada movimentação realizada com data e hora, facilitando a rastreabilidade[cite: 4, 5].
-- **Ambiente Linux-Ready:** Otimizado para rodar em terminais Bash/Zsh[cite: 1, 4].
+- **Gestão de Diretórios:** Cria automaticamente pastas de destino (Documentos, Scripts, Relatórios) caso elas não existam.
+- **Logging em Tempo Real:** Exibe no terminal o log de cada movimentação realizada com data e hora, facilitando a rastreabilidade.
+- **Ambiente Linux-Ready:** Otimizado para rodar em terminais Bash/Zsh.
 
 ## 🔧 Como utilizar
 
